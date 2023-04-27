@@ -1,12 +1,7 @@
 Welcome 👋,
 I'm Malek AL-Desougi, I'm a full stack web developer and my position now is a Frontend Web developer at Estarta Solutions I really love what I'm doing and looking forward to getting more experience and knowledge. I consider myself an ambitious person who always seeks improvement at all levels whether it's personality or practical
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 **Malek-ALdesougi/Malek-ALdesougi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
