@@ -5,13 +5,7 @@ I'm Malek AL-Desougi, I'm a full stack web developer and my position now is a Fr
 **Malek-ALdesougi/Malek-ALdesougi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<ol id="bigtext">
-    <li>BIGTEXT</li>
-    <li class="bigtext-exempt">Makes Text Big</li>
-</ol>
-<script>
-$('#bigtext').bigtext();
-</script>
+# test 
 
 
 
