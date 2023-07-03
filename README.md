@@ -5,7 +5,7 @@ I'm Malek AL-Desougi, I'm a full stack web developer and my position now is a Fr
 
 
 # ⚡ Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,git,github,bootstrap,tailwind,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,laravel,git,github,bootstrap,tailwind,mysql)](https://skillicons.dev)
 
 
 
